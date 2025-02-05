@@ -93,10 +93,10 @@ This section covers the basics of machine learning and deep learning:
 Here are the primary resources I used to learn the various concepts in this repository:
 - Youtube Courses: 
     - [나도코딩 파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY)
-    <!-- tbu >
+    <!-- tbu -->
 - Books:
     - [혼자 공부하는 파이썬](https://product.kyobobook.co.kr/detail/S000061352349)
-    <!-- tbu >
+    <!-- tbu -->
 
 ## Future Plans
 
