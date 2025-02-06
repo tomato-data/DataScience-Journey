@@ -79,6 +79,16 @@ This section covers the basics of machine learning and deep learning:
 - Implementing machine learning models using Scikit-Learn and TensorFlow/Keras
 - Understanding deep learning concepts (CNNs, RNNs, etc.)
 
+## Participation
+
+I had the opportunity to participate in the **Google Machine Learning Bootcamp 2024**, where I completed:
+
+- **Coursera: Deep Learning Specialization Course**
+- **Kaggle Competition**
+- **Gemma Sprint**: Fine-tuning the Gemma2 model
+
+The contents from the Google Machine Learning Bootcamp are included in this repository. (TBU)
+
 <!--
 프로젝트 관련 메모가 생기면 추가할 것
 ## Project Details
