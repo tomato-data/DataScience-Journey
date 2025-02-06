@@ -13,7 +13,7 @@ Welcome to the **DataScience-Journey** repository! This is a personal collection
    - [Data Visualization](#data-visualization)
    - [Makeover Monday Toy Projects](#makeover-monday-toy-projects)
    - [Machine Learning & Deep Learning](#machine-learning--deep-learning)
-3. [Project Details](#project-details)
+3. [Participation](#participation)
 4. [Learning Resources](#learning-resources)
 5. [Future Plans](#future-plans)
 6. [Contributions](#contributions)
