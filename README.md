@@ -94,7 +94,7 @@ Additionally, I participated in:
 - **NIPA Practical Project** <!-- link to NIPA -->
 - **Big Tech Integrated Corporate Hackathon** <!-- link to DNA-->
 
-Please note that the materials from these projects are stored in a different repository.
+Please note that the materials from these projects are stored in different repositories.
 
 
 <!--
