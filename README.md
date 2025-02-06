@@ -87,7 +87,15 @@ I had the opportunity to participate in the **Google Machine Learning Bootcamp 2
 - **Kaggle Competition**
 - **Gemma Sprint**: Fine-tuning the Gemma2 model
 
-The contents from the Google Machine Learning Bootcamp are included in this repository. (TBU)
+The contents from the Google Machine Learning Bootcamp are included in this repository(TBU). 
+
+Additionally, I participated in:
+
+- **NIPA Practical Project** <!-- link to NIPA -->
+- **Big Tech Integrated Corporate Hackathon** <!-- link to DNA-->
+
+Please note that the materials from these projects are stored in a different repository.
+
 
 <!--
 프로젝트 관련 메모가 생기면 추가할 것
