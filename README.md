@@ -109,11 +109,18 @@ Please note that the materials from these projects are stored in different repos
 ## Learning Resources
 
 Here are the primary resources I used to learn the various concepts in this repository:
-- Youtube Courses: 
+- Youtube Nado Coding Courses: 
     - [나도코딩 파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY)
+    - [파이썬 코딩 무료 강의 (활용편1) pygame](https://youtu.be/Dkx8Pl6QKW0?si=7mTPs5I2MsV-psAe)
+    - [파이썬 코딩 무료 강의 (활용편2) tkinter](https://youtu.be/bKPIcoou9N8?si=7yvW83sXIXK3U9H3)
     <!-- tbu -->
 - Books:
-    - [혼자 공부하는 파이썬](https://product.kyobobook.co.kr/detail/S000061352349)
+    - [혼자 공부하는 파이썬](https://m.yes24.com/Goods/Detail/109625396)
+    - [혼자 공부하는 데이터 분석 with 파이썬](https://m.yes24.com/Goods/Detail/116253011)
+    - [혼자 공부하는 머신러닝+딥러닝](https://m.yes24.com/Goods/Detail/96024871)
+    - [모두의 데이터분석 파이썬](https://m.yes24.com/Goods/Detail/72227684)
+    - [모두의 알고리즘 파이썬](https://m.yes24.com/Goods/Detail/40443936)
+    - [처음 만나는 AI 수학 with 파이썬](https://m.yes24.com/Goods/Detail/96805069)
     <!-- tbu -->
 
 ## Future Plans
