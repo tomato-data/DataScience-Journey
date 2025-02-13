@@ -1,5 +1,9 @@
 DLS Slides/
 *.csv
+*.xlsx
+*.png
+*.jpg
+answer_codes/
 
 # venv for nado coding
 nado/
