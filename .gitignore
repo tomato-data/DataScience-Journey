@@ -4,6 +4,7 @@ DLS Slides/
 *.png
 *.jpg
 answer_codes/
+*.json
 
 # venv for nado coding
 nado/
