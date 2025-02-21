@@ -1,4 +1,4 @@
-This repository contains Python code snippets from the book [**""**](https://thebook.io/006950/0004/) The materials aim to provide a comprehensive understanding of various algorithms, techniques, and applications in the field of artificial intelligence.
+This repository contains Python code snippets from the book [**"Self-Studying Machine Learning + Deep Learning"**](https://hongong.hanbit.co.kr/혼자-공부하는-머신러닝-딥러닝/) The materials aim to provide a comprehensive understanding of various algorithms, techniques, and applications in the field of artificial intelligence.
 
 - The content covers a wide range of topics, including:
   - Introduction to machine learning and its types (supervised, unsupervised, reinforcement learning)
