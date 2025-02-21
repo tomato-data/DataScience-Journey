@@ -1,4 +1,4 @@
-This repository contains Python code snippets from the book [**"Self-Studying Machine Learning + Deep Learning"**](https://hongong.hanbit.co.kr/혼자-공부하는-머신러닝-딥러닝/) The materials aim to provide a comprehensive understanding of various algorithms, techniques, and applications in the field of artificial intelligence.
+This repository contains Python code snippets from the book [**"Self-Studying Machine Learning + Deep Learning"**](https://hongong.hanbit.co.kr/혼자-공부하는-머신러닝-딥러닝/). The materials aim to provide a comprehensive understanding of various algorithms, techniques, and applications in the field of artificial intelligence.
 
 - The content covers a wide range of topics, including:
   - Introduction to machine learning and its types (supervised, unsupervised, reinforcement learning)
@@ -9,8 +9,10 @@ This repository contains Python code snippets from the book [**"Self-Studying Ma
 
 - The code snippets provided here are essential for understanding the implementation of machine learning and deep learning algorithms. These examples are designed to enhance your practical skills and deepen your understanding of how these concepts work in real-world scenarios.
 
-- Please note that not all sections of the content involve coding, so only the code relevant to specific topics or concepts is included.
-
 - Each script corresponds to a particular topic, illustrating how Python can be utilized to solve problems and demonstrate core machine learning and deep learning principles.
 
 Feel free to explore the code, and refer to additional resources for a deeper dive into the theory and applications behind the code!
+
+{{ edit_1 }}
+- An online course related to this material is available on YouTube.
+    - [Link to Youtube Playlist](https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
