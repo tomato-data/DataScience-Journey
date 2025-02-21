@@ -13,6 +13,5 @@ This repository contains Python code snippets from the book [**"Self-Studying Ma
 
 Feel free to explore the code, and refer to additional resources for a deeper dive into the theory and applications behind the code!
 
-{{ edit_1 }}
 - An online course related to this material is available on YouTube.
-    - [Link to Youtube Playlist](https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
+    - [Link to YouTube Playlist](https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
