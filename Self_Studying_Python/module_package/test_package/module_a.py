@@ -1,0 +1,1 @@
+varaible_a = 'variable from module a'
