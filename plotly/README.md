@@ -39,6 +39,10 @@ To run the notebooks, ensure you have the following libraries installed:
 
 You can install these libraries using pip:
 
+```bash
+pip install pandas plotly
+```
+
 ## Usage
 
 1. Clone the repository to your local machine.
