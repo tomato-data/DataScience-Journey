@@ -31,8 +31,4 @@ You can install these libraries using pip:
 2. Open the Jupyter notebooks in your preferred environment.
 3. Follow the instructions within each notebook to execute the code and visualize the results.
 
-## Additional Resources
-
-- An online course related to this material is available on YouTube.
-
 Feel free to explore the notebooks and modify the code to suit your learning needs!
