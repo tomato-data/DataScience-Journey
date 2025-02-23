@@ -1,6 +1,6 @@
 # Plotly Visualization Repository
 
-This repository contains Jupyter notebooks focused on data visualization techniques using the Plotly library in Python. The notebooks are designed to help users understand and apply various visualization methods to present data effectively.
+This repository contains Jupyter notebooks from the book [**"Interactive Data Visualization with Plotly in R & Python"**](https://m.yes24.com/Goods/Detail/123706075). The contents of the book focuses on data visualization techniques using the Plotly library in Python. The notebooks are designed to help users understand and apply various visualization methods to present data effectively. The datasets used in these notebooks, as well as in the accompanying book, can be found at the following link: [Data Repository](https://2stndard.tistory.com/notice/174).
 
 ## Contents
 
@@ -8,9 +8,18 @@ This repository contains Jupyter notebooks focused on data visualization techniq
 - **File:** `plotly/1_데이터_전처리_연습.ipynb`
 - **Description:** This notebook demonstrates various data preprocessing techniques using a COVID-19 dataset. It includes loading the dataset, filtering recent data, and transforming the data into a suitable format for analysis. Key operations include handling missing values, converting date formats, and creating categorical variables.
 
-### 2. Employment Rate Analysis
-- **File:** `plotly/2_plotly_설정 연습.ipynb`
-- **Description:** This notebook analyzes employment rates across different academic departments. It includes data loading, filtering, and visualizing employment statistics to provide insights into trends and patterns in employment rates.
+### 2. Plotly Configuration Practice
+- **File:** `plotly/2_plotly_설정_연습.ipynb`
+- **Description:** This notebook focuses on configuring Plotly visualizations, starting with data preparation from COVID-19 datasets and employment rates. It demonstrates how to manipulate data using Pandas, including filtering, renaming columns, and pivoting data for visualization. The notebook covers various aspects of Plotly, such as initializing figures, adding traces, and customizing layouts.
+
+  Key topics include:
+  - Creating scatter plots and bar charts with customized markers and lines.
+  - Adjusting layout properties like titles, axes, margins, and colors.
+  - Implementing subplots to compare data across different categories.
+  - Utilizing color scales for continuous and categorical data.
+  - Configuring hover information and legends for better data representation.
+
+  The notebook serves as a comprehensive guide for users to understand how to effectively use Plotly for data visualization, providing practical examples and code snippets for various visualization techniques.
 
 ### 3. Plotly Visualization Practice
 - **File:** `plotly/3_plotly_시각화_연습.ipynb`
