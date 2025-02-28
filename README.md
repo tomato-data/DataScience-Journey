@@ -122,7 +122,7 @@ Here are the primary resources I used to learn the various concepts in this repo
     - [모두의 데이터분석 파이썬](https://m.yes24.com/Goods/Detail/72227684)
     - [모두의 알고리즘 파이썬](https://m.yes24.com/Goods/Detail/40443936)
     - [처음 만나는 AI 수학 with 파이썬](https://m.yes24.com/Goods/Detail/96805069)
-    - ["Plotly로 시작하는 인터랙티브 데이터 시각화 in R & 파이썬"](https://m.yes24.com/Goods/Detail/123706075)
+    - [Plotly로 시작하는 인터랙티브 데이터 시각화 in R & 파이썬](https://m.yes24.com/Goods/Detail/123706075)
     <!-- tbu -->
 
 ## Future Plans
