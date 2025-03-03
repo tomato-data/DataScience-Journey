@@ -92,7 +92,7 @@ The contents from the Google Machine Learning Bootcamp are included in this repo
 Additionally, I participated in:
 
 - **NIPA Practical Project** <!-- link to NIPA -->
-- **Big Tech Integrated Corporate Hackathon** <!-- link to DNA-->
+- [**Big Tech Integrated Corporate Hackathon, Daily National Assembly**](https://github.com/jamrice)
 - [**LG Aimers**](https://github.com/tomato-data/LG-Aimers-Hackathon)
 
 Please note that the materials from these projects are stored in different repositories.
