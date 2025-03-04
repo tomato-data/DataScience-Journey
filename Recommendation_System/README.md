@@ -12,6 +12,6 @@ This repository contains Jupyter notebooks from the recommendation systems cours
 4. [Collaborative Filtering](/Recommendation_System/Part_1_Overview_of_Recommendation_Systems/chapter_1_classic_recommendation/06_collaborative_filtering.ipynb)
 
 ### Chapter 2. Machine-Learning-Based Recommendation Systems
-- **Description:** 
+- **Description:** This directory goes through machine learning based recommendation systems. It first revises basic concepts used in machine learning.
 
 This Readme will be updated with the contents I learn as I proceed with the course.
