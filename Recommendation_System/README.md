@@ -2,7 +2,9 @@
 
 This repository contains Jupyter notebooks from the recommendation systems course by Fast Campus.
 
-## Contents
+# Contents
+
+## Part 1. Overview of Recommendation Systems
 
 ### Chapter 1. Classic Recommendation Systems
 - **Description:** This directory starts with demonstration of various data preprocessing techniques using numpy and pandas. Then, it assesses classical recommendation systems as listed below:
@@ -16,5 +18,8 @@ This repository contains Jupyter notebooks from the recommendation systems cours
 1. [Tree Based Models](/Recommendation_System/Part_1_Overview_of_Recommendation_Systems/chapter_2_ML_based_recommendation/02_tree_based_models.ipynb)
 2. [Matrix Factorization](/Recommendation_System/Part_1_Overview_of_Recommendation_Systems/chapter_2_ML_based_recommendation/03_matrix_factorization.ipynb)
 3. [Factorization Machine](/Recommendation_System/Part_1_Overview_of_Recommendation_Systems/chapter_2_ML_based_recommendation/04_factorization_machine.ipynb)
+
+### Chapter 3. 
+- **Description:** 
 
 This Readme will be updated with the contents I learn as I proceed with the course.
