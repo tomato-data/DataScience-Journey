@@ -8,6 +8,8 @@ answer_codes/
 *.json
 venvs/
 data/
+test.py
+test.ipynb
 
 # venv for nado coding
 nado/
