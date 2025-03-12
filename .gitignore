@@ -10,6 +10,7 @@ venvs/
 data/
 test.py
 test.ipynb
+ml-100k
 
 # venv for nado coding
 nado/
