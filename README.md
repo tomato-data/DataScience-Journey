@@ -1,6 +1,6 @@
 # DataScience-Journey
 
-Welcome to the **DataScience-Journey** repository! This is a personal collection of self-studied materials, projects, and notes on the journey to learning Data Science and related fields. It includes various topics such as Python programming, algorithms, computer science fundamentals, AI mathematics, data analysis, data visualization, machine learning, and deep learning.
+Welcome to the **DataScience-Journey** repository! This is a personal collection of self-studied materials, projects, and notes on the journey to learning Data Science and related fields. It includes various topics such as Python programming, algorithms, computer science fundamentals, AI mathematics, data analysis, data visualization, machine learning, deep learning, and recommendation systems.
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@ Welcome to the **DataScience-Journey** repository! This is a personal collection
    - [Data Visualization](#data-visualization)
    - [Makeover Monday Toy Projects](#makeover-monday-toy-projects)
    - [Machine Learning & Deep Learning](#machine-learning--deep-learning)
+   - [Recomendation Systems](#recommendation-systems)
 3. [Participation](#participation)
 4. [Learning Resources](#learning-resources)
 5. [Future Plans](#future-plans)
@@ -79,6 +80,16 @@ This section covers the basics of machine learning and deep learning:
 - Implementing machine learning models using Scikit-Learn and TensorFlow/Keras
 - Understanding deep learning concepts (CNNs, RNNs, etc.)
 
+### Recommendation Systems
+This section covers the components of recommendation systems:
+- content-based filtering
+- collaborative filtering, taking into account KNN, user bias, significance weighting, Item Based CF, and metrics to evaluate these models
+- Matrix Factorization
+- Factorization Machine
+- Machine Learning based recommendation systems
+- Deep laerning based recommendation systems
+- Hybrid recommendation systems
+
 ## Participation
 
 I had the opportunity to participate in the **Google Machine Learning Bootcamp 2024**, where I completed:
@@ -92,7 +103,7 @@ The contents from the Google Machine Learning Bootcamp are included in this repo
 Additionally, I participated in:
 
 - **NIPA Practical Project** <!-- link to NIPA -->
-- [**Big Tech Integrated Corporate Hackathon, Daily National Assembly**](https://github.com/jamrice)
+- [**Daily National Assembly**](https://github.com/jamrice)
 - [**LG Aimers**](https://github.com/tomato-data/LG-Aimers-Hackathon)
 
 Please note that the materials from these projects are stored in different repositories.
@@ -123,11 +134,13 @@ Here are the primary resources I used to learn the various concepts in this repo
     - [모두의 알고리즘 파이썬](https://m.yes24.com/Goods/Detail/40443936)
     - [처음 만나는 AI 수학 with 파이썬](https://m.yes24.com/Goods/Detail/96805069)
     - [Plotly로 시작하는 인터랙티브 데이터 시각화 in R & 파이썬](https://m.yes24.com/Goods/Detail/123706075)
+    - [python을 이용한 개인화 추천 시스템](https://m.yes24.com/Goods/Detail/110328538)
     <!-- tbu -->
 
 ## Future Plans
 
 This repository will continue to evolve as I further my knowledge in data science. Future additions will include:
+- Learn and apply recommendation systems into the DNA project
 - More complex deep learning architectures (GANs, Transformers)
 - Natural language processing (NLP)
 - Contributions to open-source data science projects
