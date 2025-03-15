@@ -17,7 +17,7 @@ Welcome to the **DataScience-Journey** repository! This is a personal collection
 3. [Participation](#participation)
 4. [Learning Resources](#learning-resources)
 5. [Future Plans](#future-plans)
-6. [Contributions](#contributions)
+6. [Personal Reflections](#personal-reflections)
 
 ## Introduction
 
@@ -102,8 +102,8 @@ The contents from the Google Machine Learning Bootcamp are included in this repo
 
 Additionally, I participated in:
 
-- **NIPA Practical Project** <!-- link to NIPA -->
-- [**Daily National Assembly**](https://github.com/jamrice)
+- [**Animate Your Image**](https://github.com/tomato-data/AYO-IMAGE)
+- [**Daily National Assembly**](https://github.com/jamrice) <!-- need to fork and update>
 - [**LG Aimers**](https://github.com/tomato-data/LG-Aimers-Hackathon)
 
 Please note that the materials from these projects are stored in different repositories.
@@ -113,7 +113,7 @@ Please note that the materials from these projects are stored in different repos
 프로젝트 관련 메모가 생기면 추가할 것
 ## Project Details
 
-- **Datasets Used**: [List of key datasets you’ve worked with, e.g., Kaggle datasets, UCI datasets, etc.]
+- **Datasets Used**: [List of key datasets you've worked with, e.g., Kaggle datasets, UCI datasets, etc.]
 - **Libraries/Tools**: [Mention Python libraries and tools used like Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, etc.]
 - **Key Projects**: [Brief description of any major projects within the repository with links to project directories]
 -->
@@ -121,12 +121,12 @@ Please note that the materials from these projects are stored in different repos
 ## Learning Resources
 
 Here are the primary resources I used to learn the various concepts in this repository:
-- Youtube Nado Coding Courses: 
+- Youtube Courses: 
     - [나도코딩 파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY)
     - [파이썬 코딩 무료 강의 (활용편1) pygame](https://youtu.be/Dkx8Pl6QKW0?si=7mTPs5I2MsV-psAe)
     - [파이썬 코딩 무료 강의 (활용편2) tkinter](https://youtu.be/bKPIcoou9N8?si=7yvW83sXIXK3U9H3)
     <!-- tbu -->
-- Books:
+- Reference Books:
     - [혼자 공부하는 파이썬](https://m.yes24.com/Goods/Detail/109625396)
     - [혼자 공부하는 데이터 분석 with 파이썬](https://m.yes24.com/Goods/Detail/116253011)
     - [혼자 공부하는 머신러닝+딥러닝](https://m.yes24.com/Goods/Detail/96024871)
@@ -146,6 +146,6 @@ This repository will continue to evolve as I further my knowledge in data scienc
 - Contributions to open-source data science projects
 - More Makeover Monday challenges and toy projects
 
-## Contributions
+## Personal Reflections
 
-Feel free to fork this repository and contribute your ideas. If you have suggestions, improvements, or find bugs, please submit an issue or pull request!
+This repository serves as a personal reflection of my learning journey. I encourage others to explore the materials and insights shared here. If you have any questions or would like to discuss the content, feel free to reach out!
