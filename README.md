@@ -84,7 +84,7 @@ This section covers the basics of machine learning and deep learning:
 This section covers the components of recommendation systems:
 - content-based filtering
 - collaborative filtering, taking into account KNN, user bias, significance weighting, Item Based CF, and metrics to evaluate these models
-- Matrix Factorization
+- Matrix Factorization, with regularization and user & item bias
 - Factorization Machine
 - Machine Learning based recommendation systems
 - Deep laerning based recommendation systems
