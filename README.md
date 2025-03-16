@@ -1,6 +1,6 @@
 # DataScience-Journey
 
-Welcome to the **DataScience-Journey** repository! This is a personal collection of self-studied materials, projects, and notes on the journey to learning Data Science and related fields. It includes various topics such as Python programming, algorithms, computer science fundamentals, AI mathematics, data analysis, data visualization, machine learning, deep learning, and recommendation systems.
+Welcome to the **DataScience-Journey** repository! This is a personal collection of self-studied materials, projects, and notes on the journey to learning Data Science and related fields. It includes various topics such as algorithms, computer science fundamentals, data analysis, data visualization, mathematics used in AI, machine learning, deep learning, and recommendation systems.
 
 ## Table of Contents
 
