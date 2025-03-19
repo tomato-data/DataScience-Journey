@@ -81,13 +81,14 @@ This section covers the basics of machine learning and deep learning:
 - Understanding deep learning concepts (CNNs, RNNs, etc.)
 
 ### Recommendation Systems
-This section covers the components of recommendation systems with codes that builds the models from scratch:
+This section covers the components of recommendation systems with code that builds the models from scratch and delves into real models used by companies.:
 - content-based filtering
 - collaborative filtering, taking into account KNN, user bias, significance weighting, Item Based CF, and metrics to evaluate these models
 - Matrix Factorization, with regularization and user & item bias
 - Factorization Machine
 - Deep laerning based recommendation systems
 - Hybrid recommendation systems
+- Sparse Matrix
 
 ## Participation
 
