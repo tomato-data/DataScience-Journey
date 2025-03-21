@@ -9,6 +9,7 @@ Welcome to the **DataScience-Journey** repository! This is a personal collection
    - [Basic Python Grammar & Algorithms](#basic-python-grammar--algorithms)
    - [Learning Computer Science with Python](#learning-computer-science-with-python)
    - [Mathematics in AI](#mathematics-in-ai)
+   - [Coding The Matrix](#coding-the-matrix)
    - [Data Analysis](#data-analysis)
    - [Data Visualization](#data-visualization)
    - [Makeover Monday Toy Projects](#makeover-monday-toy-projects)
@@ -48,6 +49,10 @@ This section delves into the essential mathematical concepts used in AI and mach
 - Probability theory (distributions, Bayes' theorem)
 - Statistics (mean, variance, hypothesis testing)
 - Optimization techniques used in machine learning
+
+### Coding The Matrix
+This section discusses the book "Coding the Matrix," which explores the concepts of linear algebra through practical examples in computer science. The book aims to bridge the gap between theoretical mathematics and its applications in programming and data science. By providing real-world scenarios and coding examples, it helps readers understand how linear algebra is foundational to various computational techniques and algorithms used in the field.
+- TBU
 
 ### Data Analysis
 In this section, I explore the fundamentals of data analysis:
@@ -135,6 +140,7 @@ Here are the primary resources I used to learn the various concepts in this repo
     - [처음 만나는 AI 수학 with 파이썬](https://m.yes24.com/Goods/Detail/96805069)
     - [Plotly로 시작하는 인터랙티브 데이터 시각화 in R & 파이썬](https://m.yes24.com/Goods/Detail/123706075)
     - [python을 이용한 개인화 추천 시스템](https://m.yes24.com/Goods/Detail/110328538)
+    - [Coding the Matrix](https://m.yes24.com/Goods/Detail/11089616)
     <!-- tbu -->
 
 ## Future Plans
