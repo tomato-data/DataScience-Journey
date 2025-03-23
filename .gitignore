@@ -11,6 +11,7 @@ data/
 test.py
 test.ipynb
 ml-100k
+resources/
 
 # venv for nado coding
 nado/
