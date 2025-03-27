@@ -4,23 +4,38 @@ This repository contains implementations and solutions from the book "Coding The
 
 ## Contents
 
-### 1. Complex Numbers
+### 1. Introduction
+- Basic concepts used in mathematics
+- Basic Python
+
+### 2. Complex Numbers
 - Basic operations with complex numbers
 - Polar form and geometric interpretation
 - Applications in computer science
-- [Link to chapter exercises and solutions](./01_complex_numbers/)
+- [Link to chapter exercises and solutions](./02_complex_numbers/)
 
-### 2. Vectors
+### 3. Vectors
 - Vector operations and implementations
 - The `Vec` class and its methods
 - Basic vector computations
-- [Link to chapter exercises and solutions](./02_vectors/)
+- [Link to chapter exercises and solutions](./03_vectors/)
 
-### 3. Vector Spaces
+### 4. Vector Space
 - Vector space properties
 - Linear combinations and spans
 - Linear independence
-- [Link to chapter exercises and solutions](./03_vector_spaces/)
+- [Link to chapter exercises and solutions](./04_vector_space/)
+
+### 5. Matrix
+- Matrix properties
+- Linear combinations
+- dot product
+- Null Space and Sparse Matrix
+- Matrix with functions
+- Linear Functions
+- Inner and Outer product
+- Inverse Matrix
+- [Link to chapter exercises and solutions](./05_matrix/)
 
 [Additional chapters will be added as progress continues...]
 
@@ -62,8 +77,9 @@ Each chapter directory contains:
 ## Progress Tracking
 - [x] Chapter 2: Complex Numbers
 - [x] Chapter 3: Vectors
-- [ ] Chapter 4: Vector Spaces
-- [ ] Chapter 5: Matrix
+- [x] Chapter 4: Vector Spaces
+- [x] Chapter 5: Matrix
+- [ ] Chapter 6: Basis
 
 ## Notes
 - Implementation details and specific approaches
