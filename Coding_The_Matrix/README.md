@@ -37,21 +37,35 @@ This repository contains implementations and solutions from the book "Coding The
 - Inverse Matrix
 - [Link to chapter exercises and solutions](./05_matrix/)
 
-[Additional chapters will be added as progress continues...]
+### 6. Basis
+- Coordinate System
+- Lossy Compression
+- Two Greedy Algorithms for Finding a Generating Set
+- Superfluous-Vector
+- Unique Representation
+- Understanding Change of Basis
+- Perspective Rendering
 
-## Repository Structure
+### 7. Dimension
+- Dimension of a Basis
+- Dimension and Rank
+- Direct Sum
+- Dimension and Linear Equation
+- Annihilator
 
-project/
-├── 01_complex_numbers/
-│ ├── resources/
-│ └── exercises/
-├── 02_vectors/
-│ ├── resources/
-│ └── exercises/
-├── 03_vector_spaces/
-│ ├── resources/
-│ └── exercises/
-└── README.md
+### 8. Gaussian Elimination
+- Echelon Form
+- Applications of Gaussian Elimination
+- Applying Gaussian Elimination in Vector & Matrix Equations
+- Finding Basis for the Null Space
+- Integer Factorization
+
+### 9. Inner Product
+- Fire Fighter Problem
+  - Distance, Length, Norm, Inner Product
+- Norm of Real Numbers
+- Orthogonality
+- Lab: Machine Learning
 
 ## Getting Started
 
@@ -73,13 +87,6 @@ Each chapter directory contains:
 - Implementation of key concepts
 - Solutions to exercises
 - Additional resources and examples
-
-## Progress Tracking
-- [x] Chapter 2: Complex Numbers
-- [x] Chapter 3: Vectors
-- [x] Chapter 4: Vector Spaces
-- [x] Chapter 5: Matrix
-- [ ] Chapter 6: Basis
 
 ## Notes
 - Implementation details and specific approaches
