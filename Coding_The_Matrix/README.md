@@ -67,6 +67,10 @@ This repository contains implementations and solutions from the book "Coding The
 - Orthogonality
 - Lab: Machine Learning
 
+### 10. Orthogonalization
+- Orthogonal Complement
+- QR Factorization
+
 ## Getting Started
 
 ### Prerequisites
