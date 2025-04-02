@@ -151,7 +151,6 @@ This repository will continue to evolve as I further my knowledge in data scienc
 - More complex deep learning architectures (GANs, Transformers)
 - Natural language processing (NLP)
 - Contributions to open-source data science projects
-- More Makeover Monday challenges and toy projects
 
 ## Personal Reflections
 
