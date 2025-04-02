@@ -147,7 +147,7 @@ Here are the primary resources I used to learn the various concepts in this repo
 
 This repository will continue to evolve as I further my knowledge in data science. Future additions will include:
 - Learn and apply recommendation systems into the DNA project
-- Linear Algebra and its application in computer science
+- Linear Algebra and its applications in computer science (Coding The Matrix)
 - More complex deep learning architectures (GANs, Transformers)
 - Natural language processing (NLP)
 - Contributions to open-source data science projects
