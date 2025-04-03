@@ -40,7 +40,7 @@ This section covers computer science topics taught using Python:
 - Recursion
 - Computational complexity and Big-O notation
 - Problem-solving using Python
-- Implementing algorithms and structures such as stacks, queues, linked lists, and trees
+- Implementing algorithms and structures such as stacks, queues, graphs and trees
 
 ### Mathematics in AI
 This section delves into the essential mathematical concepts used in AI and machine learning:
@@ -63,7 +63,7 @@ In this section, I explore the fundamentals of data analysis:
 - Analyzing datasets from different domains
 
 ### Data Visualization
-This section is focused on visualizing data using Python:
+Several directories contain examples of data visualization using Python. Additionally, there is a dedicated directory that comprehensively covers Plotly visualization library.:
 - Matplotlib and Plotly for plotting
 - Creating interactive visualizations with Plotly
 - Visual storytelling and choosing appropriate chart types
