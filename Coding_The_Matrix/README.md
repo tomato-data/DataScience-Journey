@@ -71,6 +71,9 @@ This repository contains implementations and solutions from the book "Coding The
 - Orthogonal Complement
 - QR Factorization
 
+### 11. Special Basis
+- 
+
 ## Getting Started
 
 ### Prerequisites
