@@ -74,21 +74,6 @@ This repository contains implementations and solutions from the book "Coding The
 ### 11. Special Basis
 - 
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Required libraries:
-  - NumPy
-  - Matplotlib
-
-### Installation
-```bash
-git clone [your-repository-url]
-cd [repository-name]
-pip install -r requirements.txt
-```
-
 ## Usage
 Each chapter directory contains:
 - Implementation of key concepts
