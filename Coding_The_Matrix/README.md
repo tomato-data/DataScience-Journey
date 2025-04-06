@@ -80,10 +80,5 @@ Each chapter directory contains:
 - Solutions to exercises
 - Additional resources and examples
 
-## Notes
-- Implementation details and specific approaches
-- Important concepts and their applications
-- Key takeaways from each chapter
-
 ## Acknowledgments
 - Philip N. Klein for the original book
